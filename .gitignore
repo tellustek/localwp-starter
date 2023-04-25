@@ -6,5 +6,5 @@
 .cdk.staging
 cdk.out
 
-# MAC os
+# MAC OS
 **/.DS_Store
