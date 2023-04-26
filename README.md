@@ -1,5 +1,10 @@
 <a name="readme-top"></a>
 # Welcome to LocalWP Starter
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
 
 本 repo 是提供給 LocalWP 新建立本地端專案使用, 可以方便的搭配 github template 幫 LocalWP 增加版控.
 <br><br>
@@ -38,9 +43,13 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- LICENSE -->
+## License
+MIT License.
+<br><br>
+
 <!-- ROADMAP -->
 ## ROADMAP
-
 - [x] 完成本地開發搭配
 - [x] 基本還原功能
 - [x] Akeeba還原測試
@@ -51,7 +60,6 @@
 
 <!-- CONTACT -->
 ## CONTACT
-
 Shingo - [@0xShingo](https://twitter.com/0xShingo) - shingo@tellustek.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -60,6 +68,17 @@ Shingo - [@0xShingo](https://twitter.com/0xShingo) - shingo@tellustek.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/tellustek/localwp-starter.svg?style=for-the-badge
+[contributors-url]: https://github.com/tellustek/localwp-starter/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/tellustek/localwp-starter.svg?style=for-the-badge
+[forks-url]: https://github.com/tellustek/localwp-starter/network/members
+
+[stars-shield]: https://img.shields.io/github/stars/tellustek/localwp-starter.svg?style=for-the-badge
+[stars-url]: https://github.com/tellustek/localwp-starter/stargazers
+[issues-shield]: https://img.shields.io/github/issues/tellustek/localwp-starter.svg?style=for-the-badge
+[issues-url]: https://github.com/tellustek/localwp-starter/issues
+[license-shield]: https://img.shields.io/github/license/tellustek/localwp-starter.svg?style=for-the-badge
+[license-url]: https://github.com/tellustek/localwp-starter/blob/master/LICENSE.txt
 [localwp-url]: https://localwp.com/
 [issues-url]: https://github.com/tellustek/localwp-starter/issues
 [nodejs-url]: https://nodejs.org/
