@@ -8,3 +8,6 @@ cdk.out
 
 # MAC OS
 **/.DS_Store
+
+# environment
+.env
