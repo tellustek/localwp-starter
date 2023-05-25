@@ -10,7 +10,7 @@
 <br><br>
 
 ## 事前準備
-此專案需搭配 [LocalWP][localwp-url] 使用. deployment需安裝 [NodeJS][nodejs-url] 與 [AWS-CDK][aws-cdk-url]
+此專案需搭配 [LocalWP][localwp-url] 使用. deployment需安裝 [NodeJS][nodejs-url] 與 [AWS-CDK][aws-cdk-url]. 如果執行環境為 Windows, 建議安裝 Git for Windows 時勾選 `Add a Git Bash Profile to Windows Terminal`
 <br><br>
 
 ## USAGE
@@ -21,7 +21,7 @@
 
 ### 增加版控
 專案建立完成之後
-1. 點擊 `Open site shell` 開啟終端機
+1. 點擊 `Open site shell` 開啟終端機 (Windows 請使用 git bash 作為終端機工具進行開啟)
 2. 輸入 `cd ../..` 回到專案根目錄
 3. 輸入 `git clone <NEW_PROJECT_REPO_URL> repo` 將github上建立好的專案 repo clone 至 LocalWP 專案根目錄的 `repo` 或是任何你喜歡的名字資料夾中
 4. 進入步驟三 clone 完成的資料夾中執行 `./link.sh`<br>
