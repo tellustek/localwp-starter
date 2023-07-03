@@ -1,4 +1,7 @@
 #!/bin/bash
+cp -a ../app/public/wp-content/plugins/. public/wp-content/plugins/
+cp -a ../app/public/wp-content/themes/. public/wp-content/themes/
+
 rm -rf ../app/public/wp-content/plugins
 rm -rf ../app/public/wp-content/themes
 
