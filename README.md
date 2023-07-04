@@ -1,4 +1,4 @@
-`<a name="readme-top"></a>`
+<a name="readme-top"></a>
 
 # Welcome to LocalWP Starter
 
@@ -9,12 +9,12 @@
 [MIT License][license-url]
 
 本 repo 是提供給 LocalWP 新建立本地端專案使用, 可以方便的搭配 github template 幫 LocalWP 增加版控.
-`<br><br>`
+<br><br>
 
 ## 事前準備
 
 此專案需搭配 [LocalWP][localwp-url] 使用. deployment 需安裝 [NodeJS][nodejs-url] 與 [AWS-CDK][aws-cdk-url]. 如果執行環境為 Windows, 建議安裝 Git for Windows 時勾選 `Add a Git Bash Profile to Windows Terminal`
-`<br><br>`
+<br><br>
 
 ## USAGE
 
@@ -22,7 +22,7 @@
 
 如果沒有 template 可以使用請先 fork 此 repo, 並且打開 github settings 將其設定為 template.`<br>`
 再使用此 template 開啟一個新的 repo, 使用 code -> download zip 下載打包檔, 就可以用此 zip 檔案來建立 LocalWP 新專案.
-`<br><br>`
+<br><br>
 
 ### 既有專案
 
